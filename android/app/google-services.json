@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "300911385598",
+    "firebase_url": "https://tasklistdb-9b8f3-default-rtdb.firebaseio.com",
+    "project_id": "tasklistdb-9b8f3",
+    "storage_bucket": "tasklistdb-9b8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300911385598:android:4d17c7b837cf291ec4beaf",
+        "android_client_info": {
+          "package_name": "com.example.task_list_db"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPlsoyCoLVPS2LLs06y6gnhxYcSXnjAuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
